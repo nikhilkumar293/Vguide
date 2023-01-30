@@ -1,0 +1,73 @@
+.bg12 {
+    background-color: #021428;
+    background-size: cover;
+    padding: 8px 16px;
+}
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+#nav{
+  font-size: 52.5%; 
+
+}
+#navItem1 {
+    margin-right: 50px;
+    font-size: 250%;
+    text-align: center;
+    color: #FFBB00;
+    font-weight: 500;
+    font-family: "Montserrat";
+}
+
+
+#navItem3 {
+    margin-right: 50px;
+    font-size: 250%;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    font-family: "Montserrat";
+}
+
+#navItem4 {
+    margin-right: 50px;
+    font-size: 250%;
+    font-weight: 500;
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+#decor {
+    background-color: #FF4343;
+    border-radius: 10px;
+    font-style: normal;
+    width: 100%;
+    color: #ffffff;
+}
+
+.image {
+    width: 100px;
+    height: 90px;
+}
+
+#testimonials{
+    margin-top: 7%;
+    padding: 7%;
+    text-align: center;
+    background-color: #0d3047;
+    color: #fff;
+    font-size: 52.5%;
+  }
+  
+  .testimonial-image{
+    width:10%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  .carousel-item{
+    padding:6% 15%;
+  }
+

@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+nav {
+    margin-bottom: 100vh;
+}
+
+form {
+    margin-top: 90px;
+}
+
+.bg12 {
+    background-color: #021428;
+    background-size: cover;
+}
+
+.buttonQ {
+    margin: 50px;
+}
+
+#navItem1 {
+    margin-right: 50px;
+    font-size: 20px;
+    text-align: center;
+    color: #FFBB00;
+    font-weight: 500;
+    font-family: "Montserrat";
+}
+
+
+
+#navItem3 {
+    margin-right: 50px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    font-family: "Montserrat";
+}
+
+#navItem4 {
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    font-family: "Montserrat";
+}
+
+#decor {
+    background-color: #FF4343;
+    border-radius: 10px;
+    font-style: normal;
+    width: 100%;
+    color: #ffffff;
+}
+
+.image {
+    width: 100px;
+    height: 90px;
+}
+
+.bg11 {
+    background-image: url('https://images.shiksha.com/mediadata/images/1614152029phpkJ7koX.jpeg');
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+.main-heading11 {
+    font-size: 40px;
+    font: "Bree-Serif";
+}
+
+
+.card {
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.bg {
+    background-color: #875fc0;
+    background-size: cover;
+    width: 100vw;
+    height: 120vh;
+}
+
+.para {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card1 {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+.main-card {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.opt {
+    background-color: #ffffff;
+    text-align: center;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #323f4b;
+    margin: 5px;
+}
+
+button:focus {
+    background-color: #02d93b;
+    color: white;
+}
+
+.main-heading1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.margin {
+    margin-top: 150px;
+}
+
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+}
+
